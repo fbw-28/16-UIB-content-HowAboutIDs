@@ -1,9 +1,15 @@
-.red {
-    color: red;
-    font-size: 100px;
+div.red{
+    background-color: indianred;
 }
 
-#blue {
+div.blue{
+    background-color: indigo;
+}
+
+#one{
     color: blue;
-    font-size: 100px;
+    font-size: xx-large;
+}
+h1{
+    color: blue;
 }
