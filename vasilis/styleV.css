@@ -1,0 +1,15 @@
+#red {
+    color: blue;
+    
+}
+
+#blue {
+    color: blue;
+    font-size: 50px;
+}
+.first {
+    background-color: rgb(255, 0, 0);
+}
+.second {
+    background-color: rgb(194, 255, 28);
+}
