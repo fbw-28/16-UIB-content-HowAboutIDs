@@ -1,0 +1,14 @@
+body {
+    color: blue;
+}
+.big_letters{
+    font-size: 100px;
+    background-color: rgba(109, 11, 179, 0.7);
+}
+.yellow {
+    background-color: rgba(194, 194, 19, 0.7);
+}
+
+.green{
+    background-color: rgba(26, 206, 26, 0.7);
+}
