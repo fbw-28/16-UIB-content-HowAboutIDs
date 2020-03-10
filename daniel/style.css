@@ -1,9 +1,21 @@
-.red {
-    color: red;
+.blue {
+    color: blue;
     font-size: 100px;
+}
+
+.red {
+    background-color: red;
+}
+
+#title {
+    color: blue;
 }
 
 #blue {
     color: blue;
     font-size: 100px;
+}
+
+#green {
+    background-color: green;
 }
