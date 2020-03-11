@@ -1,0 +1,25 @@
+.red {
+    color: red;
+    font-size: 100px;
+}
+
+body{
+    color: blue;
+}
+
+#blue {
+    color: blue;
+    font-size: 100px;
+}
+
+.bg1{
+    background-color: aqua;
+}
+
+.bg2{
+    background-color:#ffc;
+}
+
+.bg3{
+    background-color: rgb(208, 255, 0)
+}
