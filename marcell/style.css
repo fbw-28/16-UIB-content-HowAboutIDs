@@ -1,0 +1,25 @@
+.blue-large-font {
+    color: blue;
+    font-size: 100px;
+}
+
+.blue {
+    color: blue;
+}
+
+#blue-large-font {
+    color: blue;
+    font-size: 100px;
+}
+
+.background-1 {
+    text-shadow: 4px 8px 7px red;
+}
+
+.background-2 {
+    text-shadow: 4px 8px 15px black;
+}
+
+.background-3 {
+    text-shadow: 4px 8px 7px yellow;
+}
